@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$Yk5WPM7M7kYisIxujeU9xe4.sAimFDvK6vDaXyZhdkl/.xYX6Zr1q",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to JSON Server",
+      "content": "JSON Server is a tool that lets you create a fake REST API with zero coding in less than 30 seconds.",
+      "author": "John Doe",
+      "date": "2024-08-06"
+    },
+    {
+      "id": 2,
+      "title": "Setting Up JSON Server",
+      "content": "In this post, we'll walk through setting up JSON Server to create a simple REST API.",
+      "author": "Jane Smith",
+      "date": "2024-08-07"
+    },
+    {
+      "id": 3,
+      "title": "Creating Routes with JSON Server",
+      "content": "Learn how to create custom routes with JSON Server to handle complex API requirements.",
+      "author": "Alice Johnson",
+      "date": "2024-08-08"
+    },
+    {
+      "id": 4,
+      "title": "Using JSON Server with React",
+      "content": "This post explains how to integrate JSON Server with a React application to fetch and display data.",
+      "author": "Bob Brown",
+      "date": "2024-08-09"
+    },
+    {
+      "id": 5,
+      "title": "Deploying JSON Server",
+      "content": "Deploying JSON Server to the cloud can be straightforward. Learn how to do it in this post.",
+      "author": "Carol White",
+      "date": "2024-08-10"
+    }
+  ]
+}
